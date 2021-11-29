@@ -2,9 +2,7 @@
 
 Your application should do the following:
 
-a)	Generate an email with the following syntax
-firstNamelastName@department.company.com
-
+a)	Generate an email with the following syntax firstNamelastName@department.company.com
 b)	Determine the department (Technical, Admin, Human Resource, Legal)
 c)	Generate a random password which will contain (number, capital letter, small letter & special character)
 d)	Display the generated credentials
